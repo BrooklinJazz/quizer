@@ -1,0 +1,3 @@
+%{
+  "kino": {:hex, :kino, "0.5.1", "a3da3fc39ca80b414ef96067c811182fa96e60191474e615b11553a20398aa51", [:mix], [{:ecto, "~> 3.0", [hex: :ecto, repo: "hexpm", optional: true]}, {:vega_lite, "~> 0.1.0", [hex: :vega_lite, repo: "hexpm", optional: true]}], "hexpm", "22e3927be75e23f6942349a31d20794206b9db316d2a3210f946dd3f933726fb"},
+}

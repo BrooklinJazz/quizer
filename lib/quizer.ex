@@ -10,7 +10,6 @@ defmodule Quizer do
 
       iex> Quizer.hello()
       :world
-
   """
   def hello do
     :world
