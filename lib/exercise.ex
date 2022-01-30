@@ -45,6 +45,7 @@ defmodule Quizer.Exercise do
     end)
   end
 
+
   def feedback(exercise, answers) do
     with %{} <- answers, {:ok, results} <- standardized_test(exercise, answers) do
       feedback_results =
